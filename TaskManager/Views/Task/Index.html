@@ -1,0 +1,35 @@
+@model List<TaskManager.Models.Task>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Task Manager</title>
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <h1>Task Manager</h1>
+        <form method="post" action="/Task/AddTask">
+            <input type="text" name="description" placeholder="Enter task description" required>
+            <button type="submit">Add Task</button>
+        </form>
+        <ul>
+            @foreach (var task in Model)
+            {
+                <li>
+                    @if (task.IsCompleted)
+                    {
+                        <s>@task.Description</s>
+                    }
+                    else
+                    {
+                        @task.Description
+                    }
+                    <a href="/Task/CompleteTask/@task.Id">[Complete]</a>
+                    <a href="/Task/DeleteTask/@task.Id">[Delete]</a>
+                </li>
+            }
+        </ul>
+    </body>
+    </html>
+    

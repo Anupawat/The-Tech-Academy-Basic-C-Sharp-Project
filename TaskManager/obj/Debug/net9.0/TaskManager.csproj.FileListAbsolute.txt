@@ -1,0 +1,8 @@
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfo.cs
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.RazorAssemblyInfo.cache
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.RazorAssemblyInfo.cs
+C:\Users\asr77\OneDrive\Documents\Desktop\The-Tech-Academy-Basic-C-Sharp-Project\TaskManager\obj\Debug\net9.0\TaskManager.sourcelink.json
